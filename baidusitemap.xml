@@ -4,23 +4,8 @@
 
     
   <url>
-    <loc>https://mumumushi.github.io/2018/09/06/first_blog/</loc>
-    <lastmod>2018-09-12T12:08:53.196Z</lastmod>
-    <data>
-        <display>
-        <title>第一篇博客</title>
-        <pubTime>2018-09-06T11:11:02.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://mumumushi.github.io/2018/09/06/use_ssr_in_Linux/</loc>
-    <lastmod>2018-09-12T11:06:31.057Z</lastmod>
+    <lastmod>2018-09-12T12:19:40.216Z</lastmod>
     <data>
         <display>
         <title>Linux下科学上网</title>
@@ -34,6 +19,25 @@
          
         <tag>ssr</tag>
          
+        <tag>switchyomega</tag>
+         
+        <tag>privoxy</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://mumumushi.github.io/2018/09/06/first_blog/</loc>
+    <lastmod>2018-09-12T12:08:53.196Z</lastmod>
+    <data>
+        <display>
+        <title>第一篇博客</title>
+        <pubTime>2018-09-06T11:11:02.000Z</pubTime>
+        
          
            
         </display>
