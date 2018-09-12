@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mumumushi&#39;s Blog</title>
+  
+  <subtitle>Hello world</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mumumushi.github.io/"/>
+  <updated>2018-09-12T11:06:31.057Z</updated>
+  <id>https://mumumushi.github.io/</id>
+  
+  <author>
+    <name>mumumushi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简单的Visual Studio Code教程</title>
+    <link href="https://mumumushi.github.io/2018/09/12/vscode-tutorial/"/>
+    <id>https://mumumushi.github.io/2018/09/12/vscode-tutorial/</id>
+    <published>2018-09-11T16:33:51.000Z</published>
+    <updated>2018-09-12T11:06:31.057Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Visual studio Code是微软爸爸发布的轻量级代码编辑器，不得不说，vscode对于一些小项目，简单的代码的支持得还是非常不错的，但对于第一次接触的人来说，还是需要一些基本的了解（后面会以C语言做个简单介绍），才能体会到vscode的方便！当然，肯定不够IDE方便。。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="vscode" scheme="https://mumumushi.github.io/tags/vscode/"/>
+    
+      <category term="C/C++" scheme="https://mumumushi.github.io/tags/C-C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux下科学上网</title>
+    <link href="https://mumumushi.github.io/2018/09/06/use_ssr_in_Linux/"/>
+    <id>https://mumumushi.github.io/2018/09/06/use_ssr_in_Linux/</id>
+    <published>2018-09-06T15:03:16.000Z</published>
+    <updated>2018-09-12T11:06:31.057Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;相对于在win下，在Linux下科学上网是比较麻烦的一件事，嗯。以下以Ubuntu16.04的环境为例，整合网上的教程，讲讲如何在Ubuntu下科学上网，注意只用于学习用途，请不要用于违反法律的事情上。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://mumumushi.github.io/tags/Linux/"/>
+    
+      <category term="ubuntu" scheme="https://mumumushi.github.io/tags/ubuntu/"/>
+    
+      <category term="科学上网" scheme="https://mumumushi.github.io/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="ssr" scheme="https://mumumushi.github.io/tags/ssr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://mumumushi.github.io/2018/09/06/first_blog/"/>
+    <id>https://mumumushi.github.io/2018/09/06/first_blog/</id>
+    <published>2018-09-06T11:11:02.000Z</published>
+    <updated>2018-09-12T12:06:46.846Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;哈哈，这是我的第一篇博客，请多多指教啦~test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
